@@ -1,0 +1,37 @@
+ <!-- <ul class="nav-bar-ul-menu">
+                            <li class="nav-bar-ul-li">Bioestimulador de colágeno: Radiesse, Elleva e Sculptra</li>
+                            <li class="nav-bar-ul-li">Botox</li>
+                            <li class="nav-bar-ul-li">Line Skin</li>
+                            <li class="nav-bar-ul-li">Preenchimento com ácido hialurônico</li> --> 
+                        <!-- </ul> -->
+                    <!-- <li class="nav-bar-ul-li">Tratamentos Corporais</li> -->
+                        <!-- <ul class="nav-bar-ul-menu">
+                            <li class="nav-bar-ul-li">Bioestimulador de colágeno</li>
+                            <li class="nav-bar-ul-li">Criolipólise</li>
+                            <li class="nav-bar-ul-li">Criomodelagem</li>
+                            <li class="nav-bar-ul-li">Lipocavitação</li>
+                            <li class="nav-bar-ul-li">Microagulhamento</li>
+                            <li class="nav-bar-ul-li">Radiofrequência</li>
+                            <li class="nav-bar-ul-li">Eletrolipólise</li>
+                            <li class="nav-bar-ul-li">Corrente Russa</li>
+                            <li class="nav-bar-ul-li">Endermologia</li>
+                            <li class="nav-bar-ul-li">Carboxiterapia</li>
+                            <li class="nav-bar-ul-li">Drenagem Linfática</li>
+                            <li class="nav-bar-ul-li">Gold Glúteo</li>
+                            <li class="nav-bar-ul-li">Massagem Relaxante</li>
+                            <li class="nav-bar-ul-li">Tratamento Pós Parto</li>
+                            <li class="nav-bar-ul-li">Pré e Pós Operatório de Cirurgia Plastica</li>
+                        </ul> -->
+                    <!-- <li class="nav-bar-ul-li">Tratamentos Faciais</li> -->
+                        <!-- <ul class="nav-bar-ul-menu">
+                            <li class="nav-bar-ul-li">Limpeza de Pele</li>
+                            <li class="nav-bar-ul-li">Peelings</li>
+                            <li class="nav-bar-ul-li">Peelings/Peeling Evolution 3</li>
+                            <li class="nav-bar-ul-li">Rejuvenescimento Facial</li>
+                            <li class="nav-bar-ul-li">Revitalização Facial</li>
+                            <li class="nav-bar-ul-li">Microagulhamento</li>
+                            <li class="nav-bar-ul-li">Radiofrequência</li>
+                            <li class="nav-bar-ul-li">Jato de Plasma</li>
+                            <li class="nav-bar-ul-li">Tratamento para Manchas</li>
+                            <li class="nav-bar-ul-li">Tratamento para Acne</li>
+                        </ul> -->
